@@ -1,0 +1,38 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2022 18:32:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2022 18:32:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2022 18:32:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2022 18:32:36] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2022 18:32:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:None not an image
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2022 18:32:44] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2022 18:32:47] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2022 18:32:49] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2022 18:32:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2022 18:35:19] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2022 18:35:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2022 18:35:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2022 18:35:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2022 18:35:21] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2022 18:35:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:None: not an image
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2022 18:36:18] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2022 18:36:20] "GET /post HTTP/1.1" 200 -
+INFO:root:None: not an image
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2022 18:36:26] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2022 18:36:28] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2022 18:36:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2022 18:36:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2022 18:36:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Oct/2022 18:36:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
